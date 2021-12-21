@@ -166,3 +166,5 @@ for (let i = 0; i < cube.length; i += 1) {
 }
 
 console.log(position);
+
+// "Hello"
