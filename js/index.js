@@ -145,26 +145,29 @@
 
 // console.log(line[i][j]);
 
-const cube = [
-  [1, 2, 3, 4],
-  [5, 6, 7, 8],
-  [9, 10, 11, 12],
-  [13, 14, 15, 16],
-];
+// const cube = [
+//   [1, 2, 3, 4],
+//   [5, 6, 7, 8],
+//   [9, 10, 11, 12],
+//   [13, 14, 15, 16],
+// ];
 
-const elem = 12;
-const position = []; //[2,2]
-for (let i = 0; i < cube.length; i += 1) {
-  for (let j = 0; j < cube[i].length; j += 1) {
-    if (elem === cube[i][j]) {
-      //   position.push(i, j);
-      position[0] = i;
-      position[1] = j;
-      //   position.push(j);
-    }
-  }
-}
+// const elem = 12;
+// const position = []; //[2,2]
+// for (let i = 0; i < cube.length; i += 1) {
+//   for (let j = 0; j < cube[i].length; j += 1) {
+//     if (elem === cube[i][j]) {
+//       //   position.push(i, j);
+//       position[0] = i;
+//       position[1] = j;
+//       //   position.push(j);
+//     }
+//   }
+// }
 
-console.log(position);
+// console.log(position);
 
 // "Hello"
+
+// =========================================
+
