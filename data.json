@@ -1,0 +1,8 @@
+[
+  {
+    "name": "Alex",
+    "isOnline": true,
+    "number": 3,
+    "friends": [{ "name": "Nikita" }, { "name": "Oleg" }]
+  }
+]
